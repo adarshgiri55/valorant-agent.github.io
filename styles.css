@@ -1,0 +1,99 @@
+.body{
+    font-family: 'Inter';
+    font-style: normal;
+}
+  .navbar{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 0px;
+    height: 87px;
+    width: 1728px;
+    background-color: black;
+  }
+  .name{
+    
+    position: absolute;
+    width: 180px;
+    height: 29px;
+    margin-left: 38px;
+    margin-top: 29px;
+  }
+  h2{
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    
+    margin-left: 38px;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+  }
+  #h1{
+    margin-top: 140px;
+  }
+  #h2{
+    margin-top: 669px;
+  }
+  #h3{
+    margin-top: 1782px;
+  }
+  #h4{
+    margin-top: 2113px;
+  }
+  .p1{
+    position: absolute;
+    width: 1624px;
+    height: 546px;
+    margin-top: 245px;
+    margin-left: 38px;
+  }
+  .b1{
+    background-color: black;
+    color: white;
+    position: absolute;
+    width: 226px;
+    height: 58px;
+    margin-top: 518px;
+    margin-left: 38px;
+  }
+  /* .p2{
+    color: aliceblue;
+    position: absolute;
+    width: 129px;
+    height: 33px;
+    margin-top: 530px;
+    margin-left: 87px;
+  } */
+.image{
+    position: absolute;
+    width: 729px;
+    height: 911px;
+    margin-top: 831px;
+    margin-left: 38px;
+}
+.list{
+    position: absolute;
+    width: 1624px;
+    height: 174px;
+    
+    margin-left: 38px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+}
+#l1{
+    margin-top: 1899px;
+}
+#l2{
+    margin-top: 2230px;
+}
+#cname{
+    position: absolute;
+    width: 180px;
+    height: 29px;
+    margin-top: 29px;
+    margin-left: 38px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+}
